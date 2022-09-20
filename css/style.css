@@ -1,0 +1,21 @@
+.menus {
+	text-align: center;
+	background-color: burlywood;
+	list-style-type: none;
+	font-weight: bolder;
+	font-size: 20px;
+}
+
+.image {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 95%;
+}
+
+.image1 {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 65%;
+}
